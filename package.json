@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp.demo",
+  "version": "1.0.0",
+  "description": "getting better in Angular: directive, filter, provider, service and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [],
+  "author": "davy@philos.io",
+  "license": "MIT"
+}
