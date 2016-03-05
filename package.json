@@ -4,9 +4,13 @@
   "description": "getting better in Angular: directive, filter, provider, service and more",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha -w",
+    "start": "live-server"
   },
   "keywords": [],
   "author": "davy@philos.io",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^0.9.2"
+  }
 }
